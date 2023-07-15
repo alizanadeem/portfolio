@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+header{
+    background-color: rgb(136, 138, 135);
+   color: aliceblue;
+   text-align: center;
+   padding: 14px;
+}
+
+.profile{
+    width: 300px;
+    height: 350px;
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 9px;  
+
+}
+
+.caption{
+    margin-left: 680px;
+    margin-top: 10px;
+    
+}
+
+.intro{
+    margin-left: 650px;
+    margin-top: 10px;
+}
+
+.line{
+    margin-left: 530px;
+    margin-right: 360px;
+    margin-top: 10px;
+}
+
+.website{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.paragraph{
+    margin-left: 530px;
+    margin-right: 360px;
+}
+
+.map{
+    margin-top: 30px;
+    width: 900px;
+    height: 500px;
+    margin-left: 300px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    
+    
+}
+
+footer{
+    background-color: rgb(136, 138, 135);
+    text-align: center;
+    padding: 20px;
+}
+ 
+
+   
