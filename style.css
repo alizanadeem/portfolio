@@ -1,10 +1,15 @@
+/* Revision: Added font-size property. */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
     
 }
+
+/* Here is are my block of styles. */
 
 header{
     background-color: rgb(136, 138, 135);
@@ -49,6 +54,20 @@ header{
     margin-right: 360px;
 }
 
+
+.list-style{ 
+    
+    color: #ff0000;
+    font-size: 22px;
+    
+}
+
+/* revision: here is my  pseudo-classes. */
+a.highlight:hover {
+    color: #2d0fb4;
+    font-size: 22px;
+  } 
+ 
 .map{
     margin-top: 30px;
     width: 900px;
@@ -65,6 +84,3 @@ footer{
     text-align: center;
     padding: 20px;
 }
- 
-
-   
